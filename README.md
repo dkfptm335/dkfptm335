@@ -54,4 +54,4 @@ Interested in `Python`, `Artificial Intelligence`, `Malware Analysis`, `De-ident
 📌 Github Stats 📌
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkfptm335&show_icons=true&theme=great-gatsby)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dkfptm335&exclude_repo=dkssud8150.github.io&layout=compact&theme=great-gatsby)
