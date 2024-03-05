@@ -50,8 +50,3 @@ Interested in `Python`, `Artificial Intelligence`, `Malware Analysis`, `De-ident
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-
-📌 Github Stats 📌
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkfptm335&show_icons=true&theme=great-gatsby)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dkfptm335&exclude_repo=dkssud8150.github.io&layout=compact&theme=great-gatsby)
