@@ -2,20 +2,15 @@
 
 I'm Studying in `KDT AISEC` Now.
 
-Interested in `Python`, `Artificial Intelligence`, `Malware Analysis`, `De-identification`, etc.
+Interested in `Python`, `Artificial Intelligence`, `Java`, `Android`, `iOS`, etc.
 
 📞 Contact 📞
 ---
 <a href=https://velog.io/@gloomy_passion/posts><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:dkfptm335@naver.com"><img src="https://img.shields.io/badge/dkfptm335@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
-🔧 Stack 🔧
+🔧 Stacks 🔧
 ---
-**OA**<br>
-<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
-
 **Languages**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
@@ -28,13 +23,9 @@ Interested in `Python`, `Artificial Intelligence`, `Malware Analysis`, `De-ident
 
 **Development Tools**<br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharma&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
 
 **Linux**<br>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
@@ -49,4 +40,3 @@ Interested in `Python`, `Artificial Intelligence`, `Malware Analysis`, `De-ident
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
