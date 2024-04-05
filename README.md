@@ -4,33 +4,28 @@ I'm Studying in `KDT AISEC` Now.
 
 Interested in `Python`, `Artificial Intelligence`, `Java`, `Android`, `iOS`, etc.
 
-📞 Contact 📞
----
+## 📞 Contact 📞
+
 <a href=https://velog.io/@gloomy_passion/posts><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:dkfptm335@naver.com"><img src="https://img.shields.io/badge/dkfptm335@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
-🔧 Stacks 🔧
----
+## 🔧 Stacks 🔧
+
 **Languages**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=#000000&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF7F00?style=flat-square&logo=openjdk&logoColor=white"/>
 
-**Database**<br>
+**DBMS**<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 **Development Tools**<br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharma&logoColor=white"/>
 <img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
 
 **Linux**<br>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/>
 
 **Version Control**<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
