@@ -4,6 +4,8 @@ I'm Studying in `KDT AISEC` Now.
 
 Interested in `Python`, `Artificial Intelligence`, `Java`, `Android`, `iOS`, etc.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkfptm335&layout=compact&theme=onedark)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkfptm335)](https://solved.ac/dkfptm335)
 
