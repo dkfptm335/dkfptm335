@@ -2,7 +2,7 @@
 
 I studied in `KDT AISEC`.
 
-I'm an intern of `Culture Makers`.
+I was an intern of `Culture Makers`.
 
 I'm preparing for `Naver Boost Camp` and `WooWa Course`.
 
@@ -15,8 +15,7 @@ Interested in `BackEnd`, `Java`, `Spring`.
 
 ## 📞 Contact 📞
 
-<a href="mailto:dkfptm335@naver.com"><img src="https://img.shields.io/badge/dkfptm335@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href=https://velog.io/@gloomy_passion/posts><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="mailto:dkfptm335@naver.com"><img src="https://img.shields.io/badge/dkfptm335@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href=https://gloomy-passion.tistory.com/><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/></a> <a href=https://velog.io/@gloomy_passion/posts><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ## 🔧 Stacks 🔧
 
