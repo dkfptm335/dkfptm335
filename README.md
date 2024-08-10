@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color_hexcode=f5f0ff&text=&animation=twinkling&height=80)[![TypingSVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=d09aff&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Gloomy's+GitHub!👋)](https://git.io/typing-svg)
 
-I studied in `KDT AISEC`.
+I studied in `KDT AISEC`, `Naver Boost Camp Basic and Challenge`.
 
 I was an intern of `Culture Makers`.
 
-I'm preparing for `Naver Boost Camp` and `WooWa Course`.
+I'm preparing for `Naver Boost Camp Membership` and `WooWa Course`.
 
 Interested in `BackEnd`, `Java`, `Spring`.
 
