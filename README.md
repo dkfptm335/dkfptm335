@@ -4,7 +4,7 @@ I studied in `KDT AISEC`, `Naver Boost Camp Basic and Challenge`.
 
 I was an intern of `Culture Makers`.
 
-I'm preparing for `Naver Boost Camp Membership` and `WooWa Course`.
+I'm preparing for `WooWa Course` and `SSAFY`.
 
 Interested in `BackEnd`, `Java`, `Spring`.
 
